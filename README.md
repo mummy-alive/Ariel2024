@@ -16,4 +16,4 @@
 [1] [Kai Hou Yip, Lorenzo V. Mugnai, Rebecca L. Coates, Andrea Bocchieri, Andreas Papageorgiou, Orphée Faucoz, Tara Tahseen, Virginie Batista, Angèle Syty, Arun Nambiyath Govindan, Sohier Dane, Maggie Demkin, Enzo Pascale, Jean-Philippe Beaulieu, Quentin Changeat, Pierre Drossart, Billy Edwards, Paul Eccleston, Clare Jenner, Ryan King, Theresa Lueftinger, Nikolaos Nikolaou, Pascale Danto, Sudeshna Boro Saikia, Luís F. Simões, Giovanna Tinetti, and Ingo P. Waldmann. NeurIPS - Ariel Data Challenge 2024. NeurIPS - Ariel Data Challenge 2024. Kaggle.](https://www.kaggle.com/competitions/ariel-data-challenge-2024)\
 [2] [Calibrating and Binning Astronomical Data](https://www.kaggle.com/code/gordonyip/update-calibrating-and-binning-astronomical-data/notebook)\
 [3] [GordonYip, Angele Syty, Orphée Faucoz, Tara Tahseen, Virginie Batista - Host Starter Solution](https://www.kaggle.com/code/gordonyip/host-starter-solution)\
-[4] [NeurIPS Ariel 2024 - Starter](https://www.kaggle.com/code/hugowjd/neurips-ariel-2024-starter)\
+[4] [NeurIPS Ariel 2024 - Starter](https://www.kaggle.com/code/hugowjd/neurips-ariel-2024-starter)
